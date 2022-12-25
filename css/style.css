@@ -125,7 +125,7 @@
 #services{}
 /* Client Section */
 #client-section{
-    height: 344px;
+    height: 320px;
     position: relative;
 }
 #client-section::before{
